@@ -1,0 +1,10 @@
+{
+  "name": "test-action",
+  "version": "1.0.0",
+  "description": "Github action test",
+  "main": "index.js",
+  "repository": "https://github.com/Jaggesher/test-action.git",
+  "author": "Jaggesher <jaggesher14@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
