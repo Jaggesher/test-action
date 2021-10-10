@@ -1,5 +1,7 @@
 name: "Test Action"
 on:
+  pull_request_review:
+    types: [submitted, edited, dismissed]
   pull_request:
     types: [assigned, unassigned]
 
